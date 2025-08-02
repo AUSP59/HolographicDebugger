@@ -1,0 +1,10 @@
+
+{
+  "port": 8080,
+  "refresh_interval_ms": 1000,
+  "auth_token": "holodebug-secure-token",
+  "allow_origins": ["http://localhost:8080"],
+  "export_dir": "exports",
+  "export_format": "json",
+  "language": "en"
+}
